@@ -1,0 +1,66 @@
+h2{
+	color: gold;
+	text-align: center;
+	font-weight: bold;
+	z-index: 1;
+}
+body{
+    background-color: #000;
+}
+p {
+	color: gold;
+    text-align: center;
+
+}
+.submitbox{
+ 	display: flex;
+  	align-items: center;
+ 	justify-content: center;
+}
+#ibox1{
+    margin-right: 100px;
+    position: relative;
+    top: 50px;
+}
+#ibox2{
+	position: relative;
+ 	top: 50px;
+ 	margin-right: 100px;
+
+}
+#submit-btn{
+    position: absolute;
+    top: 200px;
+
+}
+#myform{
+    color: gold;
+    text-align: center;
+}
+.backg{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 10px;
+    width: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+    z-index: -1;
+    box-shadow: 2vw -49vh 3px 0px #fff,-25vw 29vh 1px 2px #fff,32vw 31vh 1px 2px #fff,22vw -6vh 3px 0px #fff,-2vw -20vh 0px 3px #fff,4vw 6vh 3px 1px #fff,
+    -41vw -14vh 3px 1px #fff,28vw 24vh 3px 1px #fff,-4vw -50vh 3px 1px #fff,22vw -33vh 1px 1px #fff,28vw -27vh 3px 2px #fff,20vw -29vh 1px 2px #fff,
+    -8vw -49vh 3px 2px #fff,24vw -6vh 2px 3px #fff,-46vw 22vh 0px 0px #fff,44vw 34vh 2px 0px #fff,14vw -37vh 1px 3px #fff,39vw 34vh 3px 0px #fff,
+    -23vw -19vh 2px 3px #fff,27vw -25vh 2px 1px #fff,-29vw 39vh 2px 2px #fff,31vw 9vh 1px 1px #fff,23vw 38vh 0px 1px #fff,10vw 26vh 1px 1px #fff,
+    32vw 8vh 0px 2px #fff,1vw 29vh 1px 2px #fff,-27vw 23vh 2px 1px #fff,-23vw -33vh 3px 1px #fff,24vw -48vh 0px 3px #fff,26vw 30vh 1px 2px #fff,
+    1vw 45vh 0px 3px #fff,-9vw -44vh 2px 2px #fff,19vw 15vh 1px 2px #fff,1vw -30vh 2px 3px #fff,-4vw -43vh 2px 0px #fff,11vw 42vh 0px 2px #fff,
+    8vw -41vh 2px 0px #fff,3vw -37vh 2px 3px #fff,-33vw -17vh 1px 2px #fff,-5vw 48vh 3px 2px #fff,-29vw -49vh 2px 1px #fff,16vw -40vh 3px 3px #fff,
+    -3vw -46vh 1px 2px #fff,-44vw 22vh 0px 0px #fff,23vw -38vh 1px 1px #fff,35vw -12vh 2px 0px #fff,44vw 42vh 3px 2px #fff,-42vw -23vh 2px 3px #fff,
+    2vw -1vh 1px 1px #fff,-14vw 50vh 0px 2px #fff,-18vw -2vh 0px 0px #fff,16vw 4vh 3px 3px #fff,37vw -50vh 2px 3px #fff,1vw -41vh 2px 0px #fff,
+    -46vw -50vh 3px 2px #fff,-13vw -4vh 1px 1px #fff,-47vw -16vh 3px 2px #fff,-11vw -25vh 2px 1px #fff,1vw 41vh 1px 2px #fff,0vw -11vh 0px 0px #fff,
+    -46vw 26vh 0px 2px #fff,-47vw -47vh 0px 2px #fff,-30vw -22vh 1px 3px #fff,44vw 28vh 1px 2px #fff,-30vw 41vh 1px 2px #fff,-27vw -22vh 3px 2px #fff,
+    17vw 2vh 3px 3px #fff,32vw -13vh 1px 1px #fff,44vw -8vh 2px 2px #fff,-45vw 35vh 1px 0px #fff,-1vw -17vh 3px 2px #fff,-17vw 35vh 2px 3px #fff,
+    -32vw -45vh 2px 3px #fff,-19vw 31vh 3px 0px #fff,21vw 5vh 0px 0px #fff,20vw -48vh 1px 1px #fff,42vw 22vh 2px 2px #fff,31vw -37vh 1px 2px #fff,
+    30vw -31vh 3px 2px #fff,-25vw -19vh 1px 1px #fff,-17vw -15vh 0px 0px #fff,-30vw 47vh 0px 2px #fff,-25vw -4vh 2px 3px #fff,-38vw 39vh 0px 1px #fff,
+    5vw 35vh 2px 2px #fff,-25vw -12vh 0px 0px #fff,10vw -31vh 0px 3px #fff,28vw -2vh 1px 3px #fff,7vw -29vh 1px 3px #fff,-7vw -1vh 2px 2px #fff,
+    -15vw 26vh 3px 0px #fff,0vw -3vh 2px 3px #fff,-45vw 2vh 0px 2px #fff,-47vw 32vh 2px 3px #fff,
+    -45vw 33vh 2px 1px #fff,0vw 18vh 3px 2px #fff,-34vw 28vh 1px 1px #fff,-20vw 42vh 0px 2px #fff,-37vw 32vh 3px 3px #fff,21vw -15vh 3px 2px #fff
+}
